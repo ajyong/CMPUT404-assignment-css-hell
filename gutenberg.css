@@ -1,0 +1,55 @@
+/*
+ * CSS code created by Aaron Yong, based on existing Project Gutenberg CSS.
+ */
+
+body {
+	margin: 5% 10%;
+	background-image: url("http://subtlepatterns.com/patterns/old_map.png");
+	background-repeat: repeat;
+	background-attachment: scroll;
+	font-family: "Book Antiqua", serif;
+	font-size: 100%;
+}
+
+a {
+	color: #5E471A;
+}
+
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	text-align: center;
+}
+
+hr {
+	width: 50%;
+	text-align: center;
+}
+
+.mynote {
+	background-color: rgba(255, 229, 181, 0.7);
+	padding: 1em;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+div.fig {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+img {
+	max-width: 512px;
+	border: 10px ridge #946D1B;
+}
+
+pre {
+	font-style: italic;
+	font-size: 90%;
+	text-align: center;
+}
