@@ -1,19 +1,42 @@
 Assignment: CSS Hell
 ====================
 
-Project Gutenberg Main Changes:
+Part 1
+------
 
-- Body
-	- Uses an old yellowish patterned background image
-	- All text uses Book Antiqua or falls back to a serif font
-	- Slight margins on the top and bottom
-- Paragraph
-	- Slight margins on the left and right
-- Headers
-	- Centered text
-- Images
-	- Max width set to 512px
-	- Ridge border
+I changed 3 documents and supplied screenshots:
+
+http://www.gutenberg.org/files/76/old/orig76-h/p1.htm
+
+http://www.gutenberg.org/files/76/old/orig76-h/p5.htm
+
+http://www.gutenberg.org/files/76/old/orig76-h/p7.htm
+
+### Project Gutenberg Main Changes:
+
+1. Body
+  - Uses an old yellowish patterned background image
+  - All text uses Book Antiqua or falls back to a serif font
+  - Slight margins on the top and bottom
+2. Anchor
+  - Hyperlink font color changed to fit color scheme
+3. Paragraph
+  - Slight margins on the left and right
+4. Headers
+  - Centered text
+5. Images
+  - Max width set to 512px
+  - Ridge border
+6. Tables
+  - Added background color to make text easier to read
+
+Part 2
+------
+
+
+
+Old Description
+---------------
 
 You will skin 3 project gutenberg stories with custom CSS.
 
