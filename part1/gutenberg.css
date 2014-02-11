@@ -3,7 +3,7 @@
  */
 
 body {
-	margin: 5% 10%;
+
 	background-image: url("http://subtlepatterns.com/patterns/old_map.png");
 	background-repeat: repeat;
 	background-attachment: scroll;
@@ -16,11 +16,12 @@ a {
 }
 
 p {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 1em auto;
+    max-width: 42em;
 }
 
 h1,h2,h3,h4,h5,h6 {
+    text-shadow: 3px 3px #aaa;
 	text-align: center;
 }
 
@@ -29,19 +30,54 @@ hr {
 	text-align: center;
 }
 
+.mynote {
+	background-color: #FFE5B5;
+    max-width: 42em;
+    margin: auto;
+	padding: 1em;
+	font-size: 90%;
+}
+
+.toc {
+    padding: 0 1em;
+}
+
+.toc2 {
+	margin-left: 10%;
+}
+
+table {
+    max-width: 42em;
+    margin: auto;
+}
+
 td {
 	background-color: rgba(255, 229, 181, 0.7);
 	padding: 0.5em;
 }
 
+div.fig {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
 img {
-	max-width: 512px;
+    display: block;
+	margin: 0 auto;
+    max-width: 42em;
 	height: auto;
 	border: 10px ridge #946D1B;
 }
 
 pre {
+    max-width: 42em;
+	margin: 0 auto;
 	font-style: italic;
 	font-size: 90%;
-	text-align: center;
+}
+
+.foot {
+	text-indent: -3em;
+	font-size: 90%;
 }

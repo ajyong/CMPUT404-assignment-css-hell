@@ -4,13 +4,13 @@ Assignment: CSS Hell
 Part 1
 ------
 
-I changed 3 documents and supplied screenshots:
+I supplied screenshots of the changes done to these 3 documents:
 
-http://www.gutenberg.org/files/76/old/orig76-h/p1.htm
+http://www.gutenberg.org/files/76/76-h/76-h.htm
 
-http://www.gutenberg.org/files/76/old/orig76-h/p5.htm
+http://www.gutenberg.org/files/135/135-h/135-h.htm
 
-http://www.gutenberg.org/files/76/old/orig76-h/p7.htm
+http://www.gutenberg.org/files/844/844-h/844-h.htm
 
 ### Project Gutenberg Main Changes:
 
@@ -21,14 +21,19 @@ http://www.gutenberg.org/files/76/old/orig76-h/p7.htm
 2. Anchor
   - Hyperlink font color changed to fit color scheme
 3. Paragraph
-  - Slight margins on the left and right
+  - Centered box (not the same as centered text)
+  - Added 1-line double spacing between paragraphs
+  - Constrained to 42em width
 4. Headers
   - Centered text
+  - Greyish text shadow
 5. Images
-  - Max width set to 512px
+  - Constrained to 42em width
   - Ridge border
 6. Tables
-  - Added background color to make text easier to read
+  - Centered box (not the same as centered text)
+  - Added background color and padding to make text easier to read
+  - Constrained to 42em width
 
 Part 2
 ------
