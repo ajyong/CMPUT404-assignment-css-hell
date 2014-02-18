@@ -62,8 +62,9 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
-Background images are copyright Atle Mo and Andreas Fohl (C) 2014 under the 
-CC-BY-SA 3.0 unported license.  Attribution: http://subtlepatterns.com/
+Background image used in Part 1 is copyright Atle Mo and Andreas Fohl (C) 2014 
+under the CC-BY-SA 3.0 unported license.  
+Attribution: http://subtlepatterns.com/
 
 Textual content is copyright Aaron Yong and Abram Hindle (C) 2013 under the 
 CC-BY-SA 4.0 unported license. Attribution should be a hyperlink to the
