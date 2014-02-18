@@ -42,7 +42,8 @@ paste in the contents of gutenberg.css.
 Part 2
 ------
 
-
+Simpler than Part 1, just open up good.html and bad.html and revel in their
+glory.  Screenshots are also provided in the part2 directory.
 
 Old Description
 ---------------
