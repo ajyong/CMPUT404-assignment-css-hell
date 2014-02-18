@@ -12,6 +12,10 @@ http://www.gutenberg.org/files/135/135-h/135-h.htm
 
 http://www.gutenberg.org/files/844/844-h/844-h.htm
 
+To apply these CSS changes, open each of the links above, and in your web
+developer tool's stylesheet editor, remove ALL Project Gutenberg styles and
+paste in the contents of gutenberg.css.
+
 ### Project Gutenberg Main Changes:
 
 1. Body
@@ -60,10 +64,12 @@ License/Copyright
 Background images are copyright Atle Mo and Andreas Fohl (C) 2014 under the 
 CC-BY-SA 3.0 unported license.  Attribution: http://subtlepatterns.com/
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
-4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+Textual content is copyright Aaron Yong and Abram Hindle (C) 2013 under the 
+CC-BY-SA 4.0 unported license. Attribution should be a hyperlink to the
+repository and (C) 2013 Aaron Yong and Abram Hindle visible in the text.
 
-Code is licensed under the Apache 2.0 license.
+All code in this repository is licensed under the Apache 2.0 license.
 
+Starry background used in Part 2's bad website comes from 
+http://www.grsites.com/
 
